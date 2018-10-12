@@ -1,1 +1,3 @@
+BÀI TẬP ĐO LƯỜNG ĐỘ TƯƠNG TỰ CỦA TỰ CỦA TỪ (WORD SIMILARITY) DỰA TRÊN WORD EMBEDDINGS
 
+1. Viết chương trình đo Word Similarity sử dụng pre-trained word embeddings (thư mục word2vec) và bộ dữ liệu VSim400 (thư mục Datasets).
