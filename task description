@@ -2,3 +2,7 @@ BÀI TẬP ĐO LƯỜNG ĐỘ TƯƠNG TỰ CỦA TỰ CỦA TỪ (WORD SIMILARIT
 
 1. Viết chương trình đo Word Similarity sử dụng pre-trained word embeddings (thư mục word2vec) và bộ dữ liệu VSim400 (thư mục Datasets/ViSim-400).
 2. Tìm hiểu Gensim để training Word2Vec, sử dụng word embeddings đã học được để đo Word Similarity bộ dữ liệu VSim400 (thư mục Datasets/ViSim-400).
+3. Thực nghiệm và so sánh kết quả giữa hướng tiếp cận dựa trên  co-occurrence counts vectors với word embeddings vectors
+ + Extracting co-occurrence counts (word-context matrix)
+ + Pointwise mutual information- PMI
+
