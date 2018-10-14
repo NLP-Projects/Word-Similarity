@@ -1,4 +1,4 @@
-# task of measure similarity between two words
+# task of measure semantic similarity between two words
 
 BÀI TẬP ĐO LƯỜNG ĐỘ TƯƠNG TỰ CỦA TỰ CỦA TỪ (WORD SIMILARITY) DỰA TRÊN WORD EMBEDDINGS
 
