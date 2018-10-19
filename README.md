@@ -5,10 +5,13 @@ BÀI TẬP ĐO LƯỜNG ĐỘ TƯƠNG TỰ CỦA TỰ CỦA TỪ (WORD SIMILARIT
 Sinh viên đăng ký project theo một trong ba mức sau:
 
 STANDARD
-- Viết chương trình đo Word Similarity sử dụng pre-trained word embeddings (thư mục word2vec) và bộ dữ liệu VSim400 (thư mục Datasets/ViSim-400).
+1. Viết chương trình đo Word Similarity sử dụng pre-trained word embeddings (thư mục word2vec) và bộ dữ liệu VSim400 (thư mục Datasets/ViSim-400). 
+a) Sử dụng độ đo khoảng các cosine (cosine distance).
+b) Thực nghiệm thêm với một số độ đo khác: Dot	Product, Euclidean, Dice, Jaccard.
 
 MEDIUM
-- Tìm hiểu Gensim để training Word2Vec, sử dụng word embeddings đã học được để đo Word Similarity bộ dữ liệu VSim400 (thư mục Datasets/ViSim-400).
+1. Tìm k từ gần nhất với từ w (k từ có khoảng khoảng nhỏ nhất cách từ vector biểu diễn của chúng đến vector biểu diễn của từ w).
+2. Tìm từ đồng nghĩa (synonym) và trái nghĩa (antonym).
 
 HARD
 1. Thực nghiệm và so sánh kết quả giữa hướng tiếp cận dựa trên co-occurrence counts vectors với word embeddings vectors
