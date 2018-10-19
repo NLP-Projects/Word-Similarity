@@ -1,3 +1,5 @@
+#task of measure similarity between two words
+
 BÀI TẬP ĐO LƯỜNG ĐỘ TƯƠNG TỰ CỦA TỰ CỦA TỪ (WORD SIMILARITY) DỰA TRÊN WORD EMBEDDINGS
 
 Sinh viên đăng ký project thực hiện một trong các bài tập sau:
