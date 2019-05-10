@@ -43,14 +43,23 @@ diễu_hành		tuần_hành	V	4.53	7.55	1.15
 
 3.	Bộ dữ liệu Vcon-400 tại thư mục Datasets/ViCon-400. 
 Một số cặp từ trong bộ dữ liệu VSim-400 được liệt kê dưới đây. Trong đó mỗi dòng gồm ba thành phần, lần lượt là:  từ thứ nhất, từ thứ hai, nhãn quan hệ được gián cho cặp từ. 
+
 Word1		Word2		Relation 
+
 hời_hợt		nông_cạn		SYN
+
 thảnh_thơi		ưu_tư			ANT 
+
 vô_lý		có_lí			ANT 
+
 cuồng_nộ		phẫn_nộ		SYN 
+
 đần			thông_minh		ANT 
+
 có_lí		vô_lí			ANT 
+
 ấm_no		no_ấm		SYN 
+
 lí_thú		lý_thú			SYN 
 
 4.	Tài liệu tham khảo tại thư mục Reference.
