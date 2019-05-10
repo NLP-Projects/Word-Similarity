@@ -20,15 +20,25 @@ sinh_viên -0.16830535 -0.46649584 -0.09095726 0.26220384 -0.06665505 0.03110314
 Một số cặp từ trong bộ dữ liệu VSim-400 được liệt kê dưới đây. Trong đó mỗi dòng gồm 5 thành phần, lần lượt là: từ thứ nhất, từ thứ hai, nhãn từ loại của cặp từ, độ tương tự của cặp từ có giá trị trong khoảng [0,4], độ tương tự của cặp từ được đánh giá trong khoảng [0,6], độ lệch chuẩn của dãy giá trị do 15 chuyên gia đánh giá cặp từ này đưa ra.
 
 Word1		Word2	POS	Sim1	Sim2	STD
+
 biến			ngập		V	3.13	5.22	0.72
+
 động		tĩnh		V	0.6	1.0	0.95
+
 khuyết		ưu		N	0.2	0.33	0.4
+
 cõi_tục		cõi_âm	N	0.6	1.0	0.95
+
 kết_duyên		thành_hôn	V	5.27	8.78	1.06
+
 cấp_tiến		bảo_thủ	A	0.87	1.45	1.15
+
 nước_lớn		nguy_hiểm	N	1.07	1.78	1.12
+
 bất_lợi		thuận_lợi	N	0.33	0.55	0.79
+
 phân_ly		sum_họp	V	0.47	0.78	1.09
+
 diễu_hành		tuần_hành	V	4.53	7.55	1.15
 
 3.	Bộ dữ liệu Vcon-400 tại thư mục Datasets/ViCon-400. 
