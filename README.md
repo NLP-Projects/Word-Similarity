@@ -6,10 +6,12 @@ Học viên sử dụng ngôn ngữ lập trình python để cài đặt. Khuy�
 
   2.	Tìm k từ gần nhất với từ w (k từ có khoảng khoảng nhỏ nhất từ vector biểu diễn của chúng đến vector biểu diễn của từ w).
 
-  3.	Cài đặt mô hình mạng Logistic Regression hoặc Multi-layer Perceptron để nhận diện cặp từ có quan hệ đồng nghĩa (synonym) và trái nghĩa (antonym) sử dụng bộ dữ liệu ViCon để đánh giá (thư mục Datasets/ViCon-400). 
+  3.	Cài đặt mô hình mạng Logistic Regression hoặc Multi-layer Perceptron để nhận diện cặp từ có quan hệ đồng nghĩa (synonym) và trái nghĩa (antonym) sử dụng bộ dữ liệu ViCon để đánh giá (thư mục Datasets/ViCon-400).
+  
 B. Công cụ lập trình 
   1.	Ngôn ngữ lập trình python.
   2.	Thư viện học máy scikit-learn dùng cho ngôn ngữ lập trình python (https://scikit-learn.org/).
+  
 C.	Dữ liệu  
 Học viên được cung cấp dữ liệu tại địa chỉ:
 https://github.com/NLP-Projects/Word-Similarity
