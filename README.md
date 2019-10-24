@@ -2,11 +2,10 @@ BÀI TẬP LẬP TRÌNH 1:  ĐO LƯỜNG ĐỘ TƯƠNG TỰ TỰ NGỮ NGHĨA V�
 
 A.	Yêu cầu
 Học viên sử dụng ngôn ngữ lập trình python để cài đặt. Khuyến khích học viên cài đặt rõ ràng các hàm chức năng thay vì dùng hàm có sẵn trong các thư viện.
-1.	Cài đặt chương trình đo độ tương tự ngữ nghĩa của cặp từ (word similarity) sử dụng pre-trained word embeddings. Sử dụng độ đo khoảng cách Cosine, khoảng cách Dice. Công thức độ đo Cosine và Dice như sau: 
-  
+1.	Cài đặt chương trình đo độ tương tự ngữ nghĩa của cặp từ (word similarity) sử dụng pre-trained word embeddings. Sử dụng độ đo khoảng cách Cosine. Kết quả được đánh giá trên tệp dữ liệu ViCon-400.
 
-Kết quả được đánh giá trên tệp dữ liệu ViCon-400.
 2.	Tìm k từ gần nhất với từ w (k từ có khoảng khoảng nhỏ nhất từ vector biểu diễn của chúng đến vector biểu diễn của từ w).
+
 3.	Cài đặt mô hình mạng Logistic Regression hoặc Multi-layer Perceptron để nhận diện cặp từ có quan hệ đồng nghĩa (synonym) và trái nghĩa (antonym) sử dụng bộ dữ liệu ViCon-400 để đánh giá (thư mục Datasets/ViCon-400). 
 
 B.	Dữ liệu  
